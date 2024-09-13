@@ -1,7 +1,6 @@
 import { BsChevronDown } from "react-icons/bs";
 import { Button, Menu, MenuButton, MenuItem, MenuList } from "@chakra-ui/react";
 import usePlatforms from "../hooks/usePlatforms";
-import { Platform } from "../entities/Platform";
 import usePlatform from "../hooks/usePlatform";
 import useGameQueryStore from "../store";
 
